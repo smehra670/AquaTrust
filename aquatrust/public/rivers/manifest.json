@@ -1,0 +1,26 @@
+{
+  "detail": "england_watercourses.fgb",
+  "overview": "overview.geojson",
+  "source": "OS Open Rivers",
+  "licence": "OS Open Data / Open Government Licence",
+  "featureCount": 90356,
+  "overviewCount": 58265,
+  "bounds": [
+    -5.702038366153682,
+    49.97461621182484,
+    1.756275861735437,
+    55.77426210818624
+  ],
+  "forms": {
+    "inlandRiver": "River / stream",
+    "tidalRiver": "Tidal river / stream",
+    "canal": "Canal",
+    "lake": "Lake"
+  },
+  "formCounts": {
+    "inlandRiver": 72989,
+    "lake": 10846,
+    "tidalRiver": 5130,
+    "canal": 1391
+  }
+}

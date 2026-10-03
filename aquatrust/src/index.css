@@ -1,0 +1,41 @@
+:root {
+  --teal: #0e4a46;
+  --teal-dark: #0b3b38;
+  --text: #17302e;
+  --muted: #5d6f6d;
+  --line: #e3e8e6;
+  --surface: #ffffff;
+  --page: #f2f5f4;
+  --high: #2d7a4a;
+  --medium: #c47b16;
+  --low: #c2453b;
+  --shadow: 0 4px 16px rgba(16, 40, 38, 0.08);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  overflow: hidden;
+  color: var(--text);
+  background: var(--page);
+  font-family: "Manrope", "Segoe UI", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+button,
+input {
+  font-family: inherit;
+}

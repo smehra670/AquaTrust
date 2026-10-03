@@ -1,0 +1,14 @@
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.env
+.env.*
+*.local
+.DS_Store
+.idea/
+.vscode/
+*.log
+oprvrs_gpkg_gb.zip
+*.gpkg
+*.zip

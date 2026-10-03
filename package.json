@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "maplibre-gl": "^6.10.0",
+    "recharts": "^3.10.1"
+  }
+}
